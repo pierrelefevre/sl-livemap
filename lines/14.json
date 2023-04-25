@@ -1,0 +1,21 @@
+[
+  { "name": "Fruängen", "site_id": "9260" },
+  { "name": "Västertorp", "site_id": "9261" },
+  { "name": "Hägerstensåsen", "site_id": "9262" },
+  { "name": "Telefonplan", "site_id": "9263" },
+  { "name": "Midsommarkransen", "site_id": "9264" },
+  { "name": "Liljeholmen", "site_id": "9294" },
+  { "name": "Hornstull", "site_id": "9295" },
+  { "name": "Zinkensdamm", "site_id": "9296" },
+  { "name": "Mariatorget", "site_id": "9297" },
+  { "name": "Slussen", "site_id": "9192" },
+  { "name": "Gamla stan", "site_id": "9193" },
+  { "name": "T-Centralen", "site_id": "9001" },
+  { "name": "Östermalmstorg", "site_id": "9206" },
+  { "name": "Stadion", "site_id": "9205" },
+  { "name": "Tekniska högskolan", "site_id": "9204" },
+  { "name": "Universitetet", "site_id": "9203" },
+  { "name": "Bergshamra", "site_id": "9202" },
+  { "name": "Danderyds sjukhus", "site_id": "9201" },
+  { "name": "Mörby centrum", "site_id": "9200" }
+]
